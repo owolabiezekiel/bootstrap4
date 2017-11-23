@@ -45,7 +45,7 @@ body {
 
 .form-control,
 .input-group-addon,
-.check-input,
-.form-check-label {
+.card,
+.card-header {
     border-radius: 0px;
 }
