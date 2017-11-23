@@ -21,6 +21,7 @@
     margin: 0px auto;
     background: #9575CD;
     color: floralwhite;
+    border-radius: 0px;
 }
 
 .address {
@@ -36,4 +37,8 @@ body {
 
 .navbar-inverse {
     background-color: #512DA8;
+}
+
+.btn {
+    border-radius: 0px;
 }
