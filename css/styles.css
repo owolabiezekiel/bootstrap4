@@ -42,3 +42,10 @@ body {
 .btn {
     border-radius: 0px;
 }
+
+.form-control,
+.input-group-addon,
+.check-input,
+.form-check-label {
+    border-radius: 0px;
+}
