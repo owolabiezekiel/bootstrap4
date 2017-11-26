@@ -72,3 +72,11 @@ body {
     position: absolute;
     bottom: 0px;
 }
+
+.form-control,
+.input-group-addon,
+.card-header,
+.btn,
+.jumbotron {
+    border-radius: 0px;
+}
